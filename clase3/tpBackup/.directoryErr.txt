@@ -1,0 +1,6 @@
+
+    =================================
+    no se pudo respaldar el archivo -----> .directory
+    motivo -----> No se hace backup de un archivo oculto
+    =================================
+    
