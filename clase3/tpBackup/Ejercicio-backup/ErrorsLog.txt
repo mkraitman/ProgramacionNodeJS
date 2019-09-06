@@ -1,0 +1,16 @@
+
+            =================================
+            no se pudo respaldar el archivo -----> .directory
+            motivo -----> un archivo o carpeta oculto/a no se puede respaldar
+        
+            
+            =================================
+            no se pudo respaldar el archivo -----> .hello
+            motivo -----> un archivo o carpeta oculto/a no se puede respaldar
+        
+            
+            =================================
+            no se pudo respaldar el archivo -----> folder
+            motivo -----> una carpeta no se puede respaldar
+        
+            

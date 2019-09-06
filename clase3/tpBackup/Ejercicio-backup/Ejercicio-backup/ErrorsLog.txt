@@ -10,22 +10,32 @@
         
             
             =================================
-            no se pudo respaldar el archivo -----> File1.txt
+            no se pudo respaldar el archivo -----> folder
+            motivo -----> una carpeta no se puede respaldar
+        
+            
+            =================================
+            no se pudo respaldar el archivo -----> .directory
             motivo -----> un archivo o carpeta oculto/a no se puede respaldar
         
             
             =================================
-            no se pudo respaldar el archivo -----> File2.json
+            no se pudo respaldar el archivo -----> .hello
             motivo -----> un archivo o carpeta oculto/a no se puede respaldar
         
             
             =================================
-            no se pudo respaldar el archivo -----> File3.xml
+            no se pudo respaldar el archivo -----> folder
+            motivo -----> una carpeta no se puede respaldar
+        
+            
+            =================================
+            no se pudo respaldar el archivo -----> .directory
             motivo -----> un archivo o carpeta oculto/a no se puede respaldar
         
             
             =================================
-            no se pudo respaldar el archivo -----> File4.sh
+            no se pudo respaldar el archivo -----> .hello
             motivo -----> un archivo o carpeta oculto/a no se puede respaldar
         
             
